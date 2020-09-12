@@ -1,5 +1,9 @@
 # IS601-TeamProject1-GitCollaboration
 
-# Names
+# Group Member Names
 ### Stanley Ordonez
 ### Michael Drozdowski
+
+# Changelog
+
+- [] Created and defineed how Git impacts a company - Michael Drozdowski
